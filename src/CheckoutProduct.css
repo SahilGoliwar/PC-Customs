@@ -1,0 +1,35 @@
+.checkoutProduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.checkoutInfo {
+  padding-left: 20px;
+}
+
+.checkoutInfo > button {
+  background: #0c2d48;
+  border: 1px solid;
+  margin-top: 10px;
+  cursor: pointer;
+  border-color: #0c2d48;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+}
+
+.checkoutProduct_image {
+  object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+
+.checkoutRating {
+  display: flex;
+}
+
+.checkoutTitle {
+  font-size: 17px;
+  font-weight: 800;
+}

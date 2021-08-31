@@ -1,0 +1,8 @@
+.orders {
+  padding: 20px 80px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.orders > h1 {
+  margin: 30px 0;
+}
